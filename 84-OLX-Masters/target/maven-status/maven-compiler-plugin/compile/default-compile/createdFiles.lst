@@ -1,0 +1,9 @@
+com\zensar\olx\Application.class
+com\zensar\olx\bean\AdvertismentStatus.class
+com\zensar\olx\db\AdvertisementStatusDAO.class
+com\zensar\olx\rest\CategoryController.class
+com\zensar\olx\service\CategoryService.class
+com\zensar\olx\db\CategoryDAO.class
+com\zensar\olx\bean\Category.class
+com\zensar\olx\service\AdvertismentStatusService.class
+com\zensar\olx\rest\AdvertismentStatusController.class
